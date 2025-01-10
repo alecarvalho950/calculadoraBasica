@@ -2,6 +2,8 @@
 
 Uma calculadora simples e funcional desenvolvida com **HTML**, **CSS** e **JavaScript**. Este projeto é perfeito para quem deseja aprender ou praticar conceitos básicos de desenvolvimento web e manipulação do DOM.
 
+Link: https://alecarvalho950.github.io/calculadoraBasica/
+
 ---
 
 ## 📖 Sobre o Projeto
